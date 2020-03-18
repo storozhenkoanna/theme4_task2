@@ -1,0 +1,12 @@
+.main-menu__link {
+    text-decoration: none;
+    text-transform: uppercase;    
+    font-size: 14px;
+    line-height: 47px;
+    color: #050505;
+}
+
+.main-menu__item_active .main-menu__link {   
+    font-weight: bold;
+    color: #FFFFFF;       
+}

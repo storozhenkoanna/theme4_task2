@@ -1,0 +1,11 @@
+.page-footer {
+    /* height: 115px; */
+    height: 90px;
+    background: #6D3D99;
+    color: #FFFFFF;
+    font-size: 14px;    
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

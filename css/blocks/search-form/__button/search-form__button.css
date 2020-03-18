@@ -1,0 +1,13 @@
+.search-form__button {    
+    width: 42px;
+    height: 31px;
+    background: #9B51E0;
+    border: none;
+    padding: 0px;
+    margin-left: -4px;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
