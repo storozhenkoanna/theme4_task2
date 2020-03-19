@@ -1,0 +1,10 @@
+.block__title {
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    width: fit-content;
+    padding: 0px 5px;
+    margin: 0;
+    background-color: #FFFFFF; 
+}

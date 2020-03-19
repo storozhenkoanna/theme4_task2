@@ -12,14 +12,29 @@
 @import url("blocks/main-menu/__item/main-menu__item.css");
 @import url("blocks/main-menu/__link/main-menu__link.css");
 @import url("blocks/main-menu/__item/_active/main-menu__item_active.css");
+@import url("blocks/link-button/link-button.css");
+@import url("blocks/header-main/__h1/header-main__h1.css");
+@import url("blocks/header-main/__text/header-main__text.css");
+@import url("blocks/header-main/header-main.css");
+@import url("blocks/header-main/__inner/header-main__inner.css");
 
-/* @import url("blocks/"); 
-@import url("blocks/"); 
-@import url("blocks/"); 
-@import url("blocks/");  */
+@import url("blocks/block/block.css"); 
+@import url("blocks/block/__header/block__header.css"); 
+@import url("blocks/block/__header/_light/block__header_light");
+@import url("blocks/block/__title/block__title.css");
+@import url("blocks/block/__content/block__content.css"); 
+@import url("blocks/block/__img-outer/block__img-outer.css"); 
+@import url("blocks/block/__img-inner/block__img-inner.css");
+@import url("blocks/block/__img/block__img.css"); 
+@import url("blocks/block/__link/block__link.css");
 
-/* @import url("blocks/"); */
-/* @import url("blocks/"); */
+@import url("blocks/small-block/small-block.css"); 
+@import url("blocks/small-block/__img/small-block__img.css"); 
+@import url("blocks/small-block/__text/small-block__text.css");
+@import url("blocks/small-block/__title/small-block__title.css"); 
+@import url("blocks/block/__content-composite/block__content-composite.css");
+
+@import url("blocks/main-section/main-section.css");
 
 body {    
     margin: 0;
