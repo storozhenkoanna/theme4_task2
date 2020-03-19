@@ -1,5 +1,4 @@
 .page-footer {
-    /* height: 115px; */
     height: 90px;
     background: #6D3D99;
     color: #FFFFFF;
@@ -8,4 +7,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+@media (min-width: 768px) {
+    .page-footer {
+        height: 115px;
+        background: red;
+    }    
 }

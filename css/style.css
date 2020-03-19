@@ -17,24 +17,22 @@
 @import url("blocks/header-main/__text/header-main__text.css");
 @import url("blocks/header-main/header-main.css");
 @import url("blocks/header-main/__inner/header-main__inner.css");
-
 @import url("blocks/block/block.css"); 
 @import url("blocks/block/__header/block__header.css"); 
-@import url("blocks/block/__header/_light/block__header_light");
+@import url("blocks/block/__header/_light/block__header_light.css");
 @import url("blocks/block/__title/block__title.css");
 @import url("blocks/block/__content/block__content.css"); 
 @import url("blocks/block/__img-outer/block__img-outer.css"); 
 @import url("blocks/block/__img-inner/block__img-inner.css");
 @import url("blocks/block/__img/block__img.css"); 
 @import url("blocks/block/__link/block__link.css");
-
 @import url("blocks/small-block/small-block.css"); 
 @import url("blocks/small-block/__img/small-block__img.css"); 
 @import url("blocks/small-block/__text/small-block__text.css");
 @import url("blocks/small-block/__title/small-block__title.css"); 
 @import url("blocks/block/__content-composite/block__content-composite.css");
-
 @import url("blocks/main-section/main-section.css");
+@import url("blocks/block/__img-link/block__img-link.css");
 
 body {    
     margin: 0;
