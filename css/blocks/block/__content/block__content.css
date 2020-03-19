@@ -1,5 +1,8 @@
 .block__content {
     /* display: flex;
     justify-content: space-between; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
     padding: 15px 0;
 }

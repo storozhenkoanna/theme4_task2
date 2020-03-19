@@ -1,6 +1,7 @@
 .header-main__inner {    
-    height: 332px; 
+    /* height: 332px;  */
     background: rgba(0, 0, 0, 0.38);
     /* padding: 15px 470px 15px 42px;
     box-sizing: border-box; */
+    padding: 11px;    
 }
