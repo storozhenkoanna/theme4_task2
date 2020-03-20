@@ -52,9 +52,4 @@ body {
     text-align: justify;
 }
 
-img {
-    max-width: 100%;
-    height: auto;
-}
-
-/* @media 768px, 992px, 1200px */
+/* @media 576px, 768px, 992px, 1200px */
