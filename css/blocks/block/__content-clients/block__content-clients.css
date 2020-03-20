@@ -1,0 +1,12 @@
+.block__content-clients {
+    padding: 15px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+@media (min-width: 768px) {
+    .block__content-clients {
+        padding: 15px;
+    }    
+}

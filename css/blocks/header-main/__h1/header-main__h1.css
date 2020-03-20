@@ -1,12 +1,17 @@
-.header-main__h1 {   
-    /* font-size: 64px;
-    line-height: 75px; */
+.header-main__h1 {    
     font-weight: 400;
-    color: #FFC740;
-    /* text-align: left; */
+    color: #FFC740;    
     margin: 0px;
-
     font-size: 35px;
     line-height: 45px;
     text-align: center;
+}
+
+
+@media (min-width: 768px) {
+    .header-main__h1 {
+        font-size: 64px;
+        line-height: 75px;
+        text-align: left;
+    }    
 }

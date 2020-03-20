@@ -1,9 +1,14 @@
-.search-form__input {  
-    /* width: 159px;     */
+.search-form__input {    
     height: 31px;
     border-radius: 0px;
     background: #FFFFFF;
     border: 1px solid #6D3D99;
     box-sizing: border-box;
     flex: 1;
+}
+
+@media (min-width: 768px) {
+    .search-form__input {
+        width: 159px;
+    }    
 }

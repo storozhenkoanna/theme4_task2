@@ -1,3 +1,5 @@
-/* .block__header_light {
-    background: #FFC740;    
-} */
+@media (min-width: 768px) {
+    .block__header_light {
+        background: #FFC740;    
+    }  
+}

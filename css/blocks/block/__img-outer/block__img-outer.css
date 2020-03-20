@@ -1,8 +1,14 @@
 .block__img-outer {
     width: 141px;
-    height: 141px;
-    /* margin-right: 20px; */
+    height: 141px;   
     background: #C4C4C4;
     border: 3px solid #FFC740;
     margin: 0px auto;
+}
+
+
+@media (min-width: 768px) {
+    .block__img-outer {
+        margin-right: 20px;
+    }    
 }

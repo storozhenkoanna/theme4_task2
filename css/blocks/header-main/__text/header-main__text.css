@@ -3,3 +3,10 @@
     line-height: 16px;
     color: #FFFFFF;
 }
+
+
+@media (min-width: 768px) {
+    .header-main__text {
+        width: 350px;
+    }    
+}

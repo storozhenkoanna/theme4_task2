@@ -2,6 +2,13 @@
     border-bottom: 1px solid #FFC740;  
 }
 
-/* .main-menu__items:last-child {
-    border-bottom: none;
-} */
+@media (min-width: 768px) {
+    .main-menu__item {
+        /* width: 123px; */
+        width: 96px;
+        height: 47px;
+        background: #FFFFFF;
+        text-align: center;
+        border: none;
+    }    
+}

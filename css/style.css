@@ -18,11 +18,14 @@
 @import url("blocks/header-main/header-main.css");
 @import url("blocks/header-main/__inner/header-main__inner.css");
 @import url("blocks/block/block.css"); 
+@import url("blocks/block/_posts/block_posts.css");
+@import url("blocks/block/_services/block_services.css");
 @import url("blocks/block/__header/block__header.css"); 
 @import url("blocks/block/__header/_light/block__header_light.css");
 @import url("blocks/block/__header/_mobile-light/block__header_mobile-light.css");
 @import url("blocks/block/__title/block__title.css");
 @import url("blocks/block/__content/block__content.css"); 
+@import url("blocks/block/__content-text/block__content-text.css");
 @import url("blocks/block/__img-outer/block__img-outer.css"); 
 @import url("blocks/block/__img-inner/block__img-inner.css");
 @import url("blocks/block/__img/block__img.css"); 
@@ -32,7 +35,9 @@
 @import url("blocks/small-block/__text/small-block__text.css");
 @import url("blocks/small-block/__title/small-block__title.css"); 
 @import url("blocks/block/__content-composite/block__content-composite.css");
+@import url("blocks/block/__content-clients/block__content-clients.css");
 @import url("blocks/main-section/main-section.css");
+@import url("blocks/clients-section/clients-section.css");
 @import url("blocks/block/__img-link/block__img-link.css");
 
 body {    

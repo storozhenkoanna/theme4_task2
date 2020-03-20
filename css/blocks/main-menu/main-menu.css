@@ -1,4 +1,10 @@
-.main-menu {
-    /* padding: 16px 0; */
+.main-menu {    
     text-align: center;
+}
+
+
+@media (min-width: 768px) {
+    .main-menu {
+        padding: 16px 0;
+    }    
 }

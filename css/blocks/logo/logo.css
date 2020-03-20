@@ -1,8 +1,7 @@
 .logo {    
     margin-left: 31px;
     margin-top: 11px;
-    margin-bottom: 15px;
-    /* height: 48px; */
+    margin-bottom: 15px;    
 }
 
 .logo::before {
@@ -14,4 +13,10 @@
     border: 3px solid #FFC740;
     box-sizing: border-box;    
     margin: 0px 0px -35px -20px; 
+}
+
+@media (min-width: 768px) {
+    .logo {
+        height: 48px;
+    }    
 }

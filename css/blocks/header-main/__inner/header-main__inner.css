@@ -1,7 +1,13 @@
-.header-main__inner {    
-    /* height: 332px;  */
-    background: rgba(0, 0, 0, 0.38);
-    /* padding: 15px 470px 15px 42px;
-    box-sizing: border-box; */
+.header-main__inner {
+    height: inherit;
+    background: rgba(0, 0, 0, 0.38);    
     padding: 11px;    
+    box-sizing: border-box;
+}
+
+@media (min-width: 768px) {
+    .header-main__inner {
+        /* padding: 15px 200px 15px 42px; */
+        padding: 15px 25px 15px 40px;
+    }    
 }

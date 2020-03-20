@@ -2,5 +2,11 @@
     /* width: 1260px; */
     background: #FFFFFF;
     /* margin: 0 auto;     */
-    /* border-top: 5px solid #9B51E0;  */
+}
+
+
+@media (min-width: 768px) {
+    .page-container {
+        border-top: 5px solid #9B51E0; 
+    }    
 }
