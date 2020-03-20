@@ -6,8 +6,13 @@
 }
 
 @media (min-width: 768px) {
-    .header-main__inner {
-        /* padding: 15px 200px 15px 42px; */
+    .header-main__inner {        
         padding: 15px 25px 15px 40px;
+    }    
+}
+
+@media (min-width: 992px) {
+    .header-main__inner {
+        padding-left: 44px;
     }    
 }

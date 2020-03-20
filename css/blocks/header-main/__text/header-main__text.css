@@ -10,3 +10,9 @@
         width: 350px;
     }    
 }
+
+@media (min-width: 992px) {
+    .header-main__text {
+        width: 450px;
+    }    
+}

@@ -3,3 +3,9 @@
         width: 365px;
     }    
 }
+
+@media (min-width: 992px) {
+    .block_posts {
+        width: 460px;
+    }    
+}

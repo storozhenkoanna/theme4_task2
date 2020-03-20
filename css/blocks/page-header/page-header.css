@@ -1,3 +1,5 @@
-.page-header {    
-    /* padding-top: 25px; */
+@media (min-width: 992px) {
+    .page-header {    
+        padding-top: 25px;
+    }   
 }

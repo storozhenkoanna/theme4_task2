@@ -1,4 +1,5 @@
 @import url("blocks/page-container/page-container.css");
+@import url("blocks/page-container-inner/page-container-inner.css");
 @import url("blocks/page-header/page-header.css");
 @import url("blocks/page-footer/page-footer.css");
 @import url("blocks/header-top/header-top.css");
@@ -26,19 +27,20 @@
 @import url("blocks/block/__title/block__title.css");
 @import url("blocks/block/__content/block__content.css"); 
 @import url("blocks/block/__content-text/block__content-text.css");
-@import url("blocks/block/__img-outer/block__img-outer.css"); 
+@import url("blocks/block/__img-outer/block__img-outer.css");
 @import url("blocks/block/__img-inner/block__img-inner.css");
 @import url("blocks/block/__img/block__img.css"); 
 @import url("blocks/block/__link/block__link.css");
+@import url("blocks/block/__content-composite/block__content-composite.css");
+@import url("blocks/block/__content-clients/block__content-clients.css");
+@import url("blocks/block/__img-link/block__img-link.css");
 @import url("blocks/small-block/small-block.css"); 
 @import url("blocks/small-block/__img/small-block__img.css"); 
 @import url("blocks/small-block/__text/small-block__text.css");
 @import url("blocks/small-block/__title/small-block__title.css"); 
-@import url("blocks/block/__content-composite/block__content-composite.css");
-@import url("blocks/block/__content-clients/block__content-clients.css");
 @import url("blocks/main-section/main-section.css");
 @import url("blocks/clients-section/clients-section.css");
-@import url("blocks/block/__img-link/block__img-link.css");
+
 
 body {    
     margin: 0;
@@ -49,3 +51,10 @@ body {
     line-height: 14px;
     text-align: justify;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* @media 768px, 992px, 1200px */

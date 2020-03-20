@@ -1,7 +1,5 @@
-.page-container {    
-    /* width: 1260px; */
+.page-container {
     background: #FFFFFF;
-    /* margin: 0 auto;     */
 }
 
 
@@ -9,4 +7,11 @@
     .page-container {
         border-top: 5px solid #9B51E0; 
     }    
+}
+
+@media (min-width: 1200px) {
+    .page-container {
+        width: 1260px;    
+        margin: 0 auto; 
+    } 
 }

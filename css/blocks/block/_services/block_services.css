@@ -3,3 +3,9 @@
         width: 240px;
     }    
 }
+
+@media (min-width: 992px) {
+    .block_services {
+        width: 302px;
+    }    
+}

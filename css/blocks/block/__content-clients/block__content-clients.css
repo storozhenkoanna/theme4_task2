@@ -3,10 +3,12 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    align-items: center;
 }
 
 @media (min-width: 768px) {
     .block__content-clients {
-        padding: 15px;
+        padding: 20px;
+        flex-wrap: nowrap;      
     }    
 }

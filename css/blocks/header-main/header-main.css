@@ -1,8 +1,7 @@
 .header-main {
     background: url(../../../img/design/Mountains-and-hills-julian-alps.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
-    /* margin-bottom: 30px; */
+    background-repeat: no-repeat;    
     background-position: bottom;
 }
 
@@ -11,5 +10,11 @@
     .header-main {
         height: 332px;
         margin-bottom: 15px;
+    }    
+}
+
+@media (min-width: 992px) {
+    .header-main {
+        margin-bottom: 30px;
     }    
 }
