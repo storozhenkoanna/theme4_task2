@@ -1,0 +1,8 @@
+@keyframes scale {
+    from {transform: scale(1.2);}
+    to {transform: scale(1);}
+}
+
+.main-menu__item_active-hover-animation:hover {
+    animation: scale 2s; duration timing-function delay iteration-count direction fill-mode;
+}
