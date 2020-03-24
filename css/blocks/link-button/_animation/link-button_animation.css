@@ -1,0 +1,9 @@
+.link-button_animation {
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: .3s;
+}
+
+.link-button_animation:hover {
+    box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.4);
+    transform: translateY(-3px);
+  }
