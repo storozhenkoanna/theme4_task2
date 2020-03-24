@@ -40,11 +40,10 @@
 @import url("blocks/small-block/__title/small-block__title.css"); 
 @import url("blocks/main-section/main-section.css");
 @import url("blocks/clients-section/clients-section.css");
-
+@import url("blocks/media-section/media-section.css");
 @import url("blocks/link-button/_animation/link-button_animation.css");
 @import url("blocks/main-menu/__item/_active-hover-animation/main-menu__item_active-hover-animation.css");
 @import url("blocks/search-form/__button/_animation/search-form__button_animation.css");
-
 
 body {    
     margin: 0;
@@ -54,6 +53,11 @@ body {
     font-size: 12px;
     line-height: 14px;
     text-align: justify;
+}
+
+video {
+    width: 100%;
+    height: auto;
 }
 
 /* @media 576px, 768px, 992px, 1200px */
