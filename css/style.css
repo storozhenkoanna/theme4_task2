@@ -41,6 +41,10 @@
 @import url("blocks/main-section/main-section.css");
 @import url("blocks/clients-section/clients-section.css");
 
+@import url("blocks/link-button/_animation/link-button_animation.css");
+@import url("blocks/main-menu/__item/_active-hover-animation/main-menu__item_active-hover-animation.css");
+@import url("blocks/search-form/__button/_animation/search-form__button_animation.css");
+
 
 body {    
     margin: 0;

@@ -1,0 +1,7 @@
+.search-form__button_animation {
+    transition: transform 1s;   
+  }
+  
+  .search-form__button_animation:hover {
+    transform: rotate(360deg); 
+  }
